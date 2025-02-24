@@ -1,4 +1,4 @@
-## Resumen
+## resumen
 
 ![prediccion_salarial png](https://github.com/user-attachments/assets/baad6459-408e-4779-8b39-8e9fab461314)
 

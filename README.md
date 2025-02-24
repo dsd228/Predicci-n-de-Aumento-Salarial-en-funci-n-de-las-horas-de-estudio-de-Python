@@ -1,5 +1,3 @@
-# Predicción de Aumento Salarial en función de las horas de estudio de Python
-
 ## Resumen
 Este proyecto utiliza técnicas de regresión para predecir el incremento salarial potencial basado en las horas de estudio de Python. Permite a los profesionales de TI planificar y optimizar su formación. Proyecto de curso de creación de IA
 
